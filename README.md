@@ -2,8 +2,8 @@
 
 API endpoints.
 
-[https://intense-stream-17083.herokuapp.com/symbols](https://intense-stream-17083.herokuapp.com/symbols)
-[https://intense-stream-17083.herokuapp.com/rates?base=THB](https://intense-stream-17083.herokuapp.com/rates?base=THB)
+- [https://intense-stream-17083.herokuapp.com/symbols](https://intense-stream-17083.herokuapp.com/symbols)
+- [https://intense-stream-17083.herokuapp.com/rates?base=THB](https://intense-stream-17083.herokuapp.com/rates?base=THB)
 
 ## To Run In Development Mode
 
